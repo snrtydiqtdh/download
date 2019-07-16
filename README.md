@@ -1,7 +1,7 @@
 
 ## 佛跳墙（fotiaoqiang）最新版本下载 Latest version of fotiaoqiang</a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/v2.0.5/fotiaoqiangv2.0.5.apk"> Android </a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/v2.0.5/fotiaoqiang-win32-2.0.5-install.zip"> Windows </a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/v2.0.6/fotiaoqiang-v2.0.6.apk"> Android </a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/v2.0.6/fotiaoqiang-2.0.6-Setup.exe"> Windows </a>
 - <a href="https://github.com/getfotiaoqiang/download/releases/download/v2.0.5/fotiaoqiang_darwin_macosv2.0.5_install.dmg"> Mac OS </a>
 - IOS 敬请期待
 
